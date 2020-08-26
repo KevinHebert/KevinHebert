@@ -9,9 +9,9 @@
 :email: kevin.hpsrp@gmail.com 
 
 - 🔭 Atuo atualmente na Operações de Vendas da Usiminas<br>
-- 🌱 Estou aprendendo: 
-      Análise de Dados com Python <br>
-      PowerBI para DataScience <br>
+- 🌱 Estou aprendendo:<br> 
+      Análise de Dados com Python<br>
+      PowerBI para DataScience<br>
 
 Obrigado por visitar!
 </samp>
