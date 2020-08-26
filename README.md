@@ -10,13 +10,15 @@
 
 - 🔭 Atuo atualmente na Operações de Vendas da Usiminas
 - 🌱 Estou aprendendo Análise de Dados com Python e visualização com PowerBI
+
+Obrigado por visitar!
+</samp>
 <!-- **- 👯 I’m looking to collaborate on ...>
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
-Obrigado por visitar!
-</samp>
+
 <!--
 **KevinHebert/KevinHebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
