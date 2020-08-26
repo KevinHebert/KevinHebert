@@ -15,6 +15,8 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
+Obrigado por visitar!
+</samp>
 <!--
 **KevinHebert/KevinHebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
