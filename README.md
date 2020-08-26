@@ -10,8 +10,8 @@
 
 - 🔭 Atuo atualmente na Operações de Vendas da Usiminas<br>
 - 🌱 Estou aprendendo:<br> 
-      Análise de Dados com Python<br>
-      PowerBI para DataScience<br>
+      :shipit: Análise de Dados com Python<br>
+      :bar_chart: PowerBI para DataScience<br>
 
 Obrigado por visitar!
 </samp>
