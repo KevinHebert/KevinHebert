@@ -12,6 +12,7 @@
 - 🌱 Estou aprendendo:<br> 
             :shipit: Análise de Dados com Python<br>
             :bar_chart: PowerBI para DataScience<br>
+            ⚡ A partir de 10/09 Bootcamp de Ciência de Dados no IGTI
 - 👯 Estou procurando colaborar com projetos de Ciência de Dados
 
 Obrigado por visitar!
