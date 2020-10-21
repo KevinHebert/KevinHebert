@@ -9,11 +9,16 @@
 :email: kevin.hpsrp@gmail.com 
 
 - 🔭 Atuo atualmente na Operações de Vendas da Usiminas<br>
-- 🌱 Estou aprendendo:<br> 
+
+# ROADMAP DATA SCIENCE<br>
+## TODO<br>
             :shipit: Análise de Dados com Python<br>
+## DOING🌱 Estou aprendendo:<br> 
             :bar_chart: PowerBI para DataScience<br>
-            ⚡ Bootcamp de Ciência de Dados no IGTI
-- 👯 Procuro colaborar em projetos de Ciência de Dados para ganhar experiência real.
+             Bootcamp de Ciência de Dados no IGTI<br>
+## DONE<br>
+
+
 
 Obrigado por visitar!
 </samp>
@@ -28,7 +33,7 @@ Obrigado por visitar!
 
 - 🔭 Atuo atualmente na Operações de Vendas da Usiminas
 - 🌱 Estou aprendendo Análise de Dados com Python e visualização com PowerBI
-- 👯 I’m looking to collaborate on ...
+- 👯 Procuro colaborar em projetos de Ciência de Dados para ganhar experiência real.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
