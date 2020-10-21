@@ -11,15 +11,16 @@
 - 🔭 Atuo atualmente na Operações de Vendas da Usiminas<br>
 
 # ROADMAP DATA SCIENCE<br>
-## TODO<br>
+### TODO<br>
             :shipit: Análise de Dados com Python<br>
-## DOING🌱 Estou aprendendo:<br> 
+### DOING🌱 Estou aprendendo:<br> 
             :bar_chart: PowerBI para DataScience<br>
              Bootcamp de Ciência de Dados no IGTI<br>
-## DONE<br>
+             SQL Tutorial - Full Database Course for Beginners - https://www.mikedane.com/#courses & https://youtu.be/HXV3zeQKqGY<br>
+### DONE<br>
 
 
-
+-------------------------------------------------------
 Obrigado por visitar!
 </samp>
 <!-- **- 👯 I’m looking to collaborate on ...>
