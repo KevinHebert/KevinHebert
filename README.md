@@ -10,23 +10,26 @@
 
 🔭 Atuo atualmente na Operações de Vendas da Usiminas<br>
 
-Minha capacitação: 
+Minha jornada: 
 
 ## ROADMAP<br>
 ### TO DO<br>
 
 1. Análise de Dados com Python [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
 
+1. [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+
 ### DOING🌱 Estou aprendendo:<br>
 
 1. **PowerBI** para DataScience [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)<br> 
 
-1. Bootcamp de Ciência de Dados no IGTI<br>
+1. Bootcamp de Ciência de Dados no IGTI<br> 
 
 1. **SQL** [MikeDane](https://www.mikedane.com/#courses), [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)<br>
      
-### DONE<br>
-1. **PowerBI** Curso PowerBI - [Lean Solutions]
+### DONE⚡<br>
+
+1. **PowerBI** Curso PowerBI - [Lean Solutions](https://leansolutions.eadplataforma.com/curso/business-intelligence-com-power-bi)
 
 -------------------------------------------------------
 Obrigado por visitar!
