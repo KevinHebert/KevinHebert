@@ -5,19 +5,18 @@
 
 #### Quer se conectar comigo? Encontre-me aqui:
 
-🔗 https://www.linkedin.com/in/kevin-hebert-pero/  
+🔗 [LinkedIn](https://www.linkedin.com/in/kevin-hebert-pero/)  
 :email: kevin.hpsrp@gmail.com 
 
 🔭 Atuo atualmente na Operações de Vendas da Usiminas<br>
 
 Minha capacitação: 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+## ROADMAP<br>
+### TO DO<br>
 
-## ROADMAP DATA SCIENCE<br>
-### TODO<br>
-            1.shipit: Análise de Dados com Python
+1. Análise de Dados com Python [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+
 ### DOING🌱 Estou aprendendo:<br>
 
 1. **PowerBI** para DataScience [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)<br> 
@@ -27,7 +26,7 @@ http://github.com - automatic!
 1. **SQL** [MikeDane](https://www.mikedane.com/#courses), [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)<br>
      
 ### DONE<br>
-
+1. **PowerBI** Curso PowerBI - [Lean Solutions]
 
 -------------------------------------------------------
 Obrigado por visitar!
