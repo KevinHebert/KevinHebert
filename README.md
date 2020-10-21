@@ -14,12 +14,6 @@ Minha jornada:
 
 ## ROADMAP<br>
 
-<!---TO DO | DOING | DONE
------------- | ------------- | -------------
-*Análise de Dados com Python*<br> [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | ***PowerBI** para DataScience*<br> [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)<br> | ***PowerBI** Curso PowerBI*<br> [Lean Solutions](https://leansolutions.eadplataforma.com/curso/business-intelligence-com-power-bi)
-[CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) | *Bootcamp de Ciência de Dados*<br> IGTI | 
-||***SQL Tutorial***<br> [MikeDane](https://www.mikedane.com/#courses),<br> [Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY) | ---/>
-
 ### TO DO<br>
 
 1. Análise de Dados com Python [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
@@ -43,10 +37,12 @@ Minha jornada:
 -------------------------------------------------------
 Obrigado por visitar!
 </samp>
-<!-- **- 👯 I’m looking to collaborate on ...>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+
+<!---TO DO | DOING | DONE
+------------ | ------------- | -------------
+*Análise de Dados com Python*<br> [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | ***PowerBI** para DataScience*<br> [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)<br> | ***PowerBI** Curso PowerBI*<br> [Lean Solutions](https://leansolutions.eadplataforma.com/curso/business-intelligence-com-power-bi)
+[CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) | *Bootcamp de Ciência de Dados*<br> IGTI | 
+||***SQL Tutorial***<br> [MikeDane](https://www.mikedane.com/#courses),<br> [Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY) | ---/>
 
 
 <!--
