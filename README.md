@@ -8,7 +8,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-hebert-pero/)  
 :email: kevin.hpsrp@gmail.com 
 
-🔭 Atuo atualmente na Operações de Vendas da Usiminas<br>
+🔭 Atuo atualmente na Operações de Vendas da Usiminas *participando de iniciativas voltadas à tomada de decisão baseada em dados*<br>
 
 Minha jornada: 
 
