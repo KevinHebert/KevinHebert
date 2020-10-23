@@ -22,6 +22,8 @@ Minha jornada:
 
 1. Agile Project Management [Mackenzie](https://eadcursoslivres.mackenzie.br/course/view.php?id=18) 
 
+1. Cursos [Kaggle](https://www.kaggle.com/learn/overview)
+
 ### DOING🌱 Estou aprendendo:<br>
 
 1. **PowerBI** para DataScience [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)<br> 
