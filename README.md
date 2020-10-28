@@ -28,8 +28,6 @@ Minha jornada:
 
 1. **PowerBI** para DataScience [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)<br> 
 
-1. Bootcamp de Ciência de Dados no IGTI<br> 
-
 1. **SQL** [MikeDane](https://www.mikedane.com/#courses), [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)<br>
      
 ### DONE⚡<br>
